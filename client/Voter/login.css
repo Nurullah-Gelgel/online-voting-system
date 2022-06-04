@@ -1,0 +1,75 @@
+
+
+.login{
+  width: 600px;
+  height: 500px;
+  box-sizing: border-box;
+}
+h1{
+  font-size: 25px ;
+  color:maroon;
+  display: block;
+  margin: 10px 0 0 138px;
+}
+label{
+  
+  color:maroon;
+}
+
+
+input[type=text], input[type=password] {
+  
+  width: 300px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display:block;
+  border: 1px solid #ccc;
+  
+}
+
+button {
+  font: 15px bold ;
+  background-color:aliceblue;
+  color:darkred;
+  padding: 14px 20px;
+  margin: 8px 0 ;
+  border: none;
+  cursor: pointer;
+ width: 150px;
+ position: relative;
+}
+
+button:hover {
+  text-decoration: underline;
+  opacity: 0.8;
+}
+
+
+.login {
+  padding: 60px 0 0 0;
+}
+
+span.psw {
+  float: right;
+  padding-top: 16px;
+}
+
+/* Change styles for span and cancel button on extra small screens */
+
+  span.psw {
+     display: block;
+     float: none;
+  }
+  .newButton{
+    background-color:aliceblue;
+   
+  }
+ .newButton a{
+  color:darkred;
+  
+    
+ }
+ .newButton a:hover{
+  color:blue;
+    
+ }

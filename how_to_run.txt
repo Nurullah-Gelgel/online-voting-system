@@ -1,0 +1,22 @@
+#online_voting_system
+
+#Requirements
+##Node.js
+##Visual Code
+##Xampp
+
+##Firstly, you should open xampp.
+##Then run apache and mysql.
+## Open PHPMyAdmin (http://localhost/phpmyadmin)
+##Import database2.sql file(given inside the zip package in SQL file folder)
+##Then open vscode.
+##Write to terminal cd server.
+##Write to terminal npm run dev
+##Finally open in live server First.html
+
+
+##You can sign-up or login.
+##username:rragsdale0
+##password:0
+
+##If you register, you can also enter with your registration information.

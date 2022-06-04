@@ -1,0 +1,11 @@
+body{
+    background-image: url(Figures/Home-700x472-c-default.png);
+}
+.navbar{
+    background-color: darkorchid;
+    
+}
+.navbar a{ 
+    
+    color: aliceblue;
+}

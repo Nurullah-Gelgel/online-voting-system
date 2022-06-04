@@ -1,0 +1,47 @@
+body {
+    background-color: blueviolet;
+  }
+
+  #navbarNav {
+    width: 600px;
+    height: 40px;
+    
+  }
+
+  #navbarNav ul {
+    padding: 0;
+    list-style: none
+  }
+
+  #navbarNav ul li {
+    position: relative;
+    float: left
+  }
+
+  #navbarNav ul li a {
+    display: block;
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    border: 1px solid darkred;
+    width: 150px;
+    text-align: center;
+    text-decoration: none;
+    padding: 8px
+  }
+
+  #navbarNav ul li a:hover {
+    background-color:darkgrey;
+    
+  }
+
+  #navbarNav ul li ul {
+    display: none;
+    position: absolute;
+  
+  }
+
+  #navbarNav ul li:hover ul {
+    display: block;
+    position: absolute
+  }
